@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 50%;
+}
+.error{
+    background-color: red;
+    padding: 5px;
+    margin:5px;
+}
+#form{
+    margin:auto;
+    padding:20px;
+    background-color: grey;
+    text-align: center;
+}
+.msg{
+    padding: 5px;
+    margin:5px; 
+}
+input[type="text"]{
+    padding: 5px;
+    margin:5px;
+}
+input[type="email"]{
+    padding: 5px;
+    margin:5px;
+}
